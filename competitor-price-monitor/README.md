@@ -1,3 +1,5 @@
+⚠️ Output Excel files are generated locally and not included in this repository.
+
 competitors can be easily modified in the configuration section of the script:
 
 CONFIG = {
@@ -50,4 +52,5 @@ Add support for real historical price storage (CSV / Database)
 Schedule scraping using cron or Task Scheduler
 
 Add logging instead of print statements
+
 
